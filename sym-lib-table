@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/teensy_library/teensy.lib")(options "")(descr ""))
+  (lib (name "tof")(type "Legacy")(uri "${KIPRJMOD}/tof_library/tof.lib")(options "")(descr ""))
+)
