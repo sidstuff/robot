@@ -152,7 +152,9 @@ The following diagram shows the flow of current from the 3.7V LiPo.
                |
       301.2 mA (1114.5 mW)
                |
-       TPS61099 (93% eff)
+      ----------------------
+      | TPS61099 (93% eff) |
+      ----------------------
                |
 ---------------|-------------------- 5V
                |
