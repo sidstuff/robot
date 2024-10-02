@@ -107,7 +107,7 @@ We use voltage dividers to supply a fraction of the two batteries' voltages to a
 
 We can have the buzzer buzz at different frequencies and beep at different delays to notify us of various things. Its rating of 3V,9mA is within the limits of the Teensy pin. For every doubling of distance, the sound level reduces by 6dB, so its volume of 100dB@10cm means that our buzzer will have a nicely audible volume of 60dB 10m away.
 
-**TODO**: Due to laziness, the PCB currently uses KiCAD's standard 12x9.5mm buzzer footprint, which should be replaced with a custom but more accurate 30x20mm one – this means the PCB will be larger than it currently is.
+<table><td><b>TODO</b>: Due to laziness, the PCB currently uses KiCAD's standard 12x9.5mm buzzer footprint, which should be replaced with a custom but more accurate 30x20mm one – this means the PCB will be larger than it currently is.</td></table>
 
 ### Potentiometer – RK09K or similar
 
